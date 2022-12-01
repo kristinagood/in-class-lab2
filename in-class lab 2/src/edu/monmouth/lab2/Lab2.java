@@ -10,8 +10,6 @@ import edu.monmouth.shape.Rectangle;
 
 
 public class Lab2 {
-
-	public final static int REDIRECTFAILURE = -5;
 	
 	public static void main(String[] args) {
 	
